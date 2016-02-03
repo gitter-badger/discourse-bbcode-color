@@ -1,6 +1,8 @@
 discourse-bbcode-color
 ======================
 
+[![Join the chat at https://gitter.im/AndreTheGamer/discourse-bbcode-color](https://badges.gitter.im/AndreTheGamer/discourse-bbcode-color.svg)](https://gitter.im/AndreTheGamer/discourse-bbcode-color?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Discourse Plugin to support BBCode color tags.
 
 Usage
